@@ -1,0 +1,37 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- 虚拟环境 ----
+venv/
+.venv/
+env/
+ENV/
+
+# ---- IDE / 编辑器 ----
+.idea/
+.vscode/
+*.iml
+
+# ---- 运行产物 / 临时目录 ----
+.codex_render_check/
+rendered_check/
+*.log
+
+# ---- 大文件（超过 GitHub 100MB 限制，或体积不适合入库）----
+*.mp4
+*.mov
+*.avi
+*.zip
+
+# ---- 系统垃圾 ----
+Thumbs.db
+.DS_Store
+desktop.ini

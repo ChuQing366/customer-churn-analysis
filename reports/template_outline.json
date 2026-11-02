@@ -1,0 +1,459 @@
+[
+  {
+    "idx": 3,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "项目设计报告"
+  },
+  {
+    "idx": 12,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "课程名称：               《大数据分析与应用》"
+  },
+  {
+    "idx": 13,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "项目名称：            XXXX大数据分析和挖掘系统"
+  },
+  {
+    "idx": 14,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "专业班级：                 计科（升本）2501"
+  },
+  {
+    "idx": 15,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "学生姓名：           张三（学号）、李四（学号）"
+  },
+  {
+    "idx": 16,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "开课时间：                 2026.3-2026.7"
+  },
+  {
+    "idx": 17,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "授课教师：                  路陈红"
+  },
+  {
+    "idx": 26,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "智能科学与工程学院"
+  },
+  {
+    "idx": 36,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "《大数据分析与应用》课程"
+  },
+  {
+    "idx": 37,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "场景化综合实验"
+  },
+  {
+    "idx": 38,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "—XXX大数据分析和挖掘系统"
+  },
+  {
+    "idx": 45,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "一、功能与要求"
+  },
+  {
+    "idx": 46,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "1、实现功能"
+  },
+  {
+    "idx": 47,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "（1）通过Numpy、Pandas等第三方模块对数据集进行读取和数据清洗；"
+  },
+  {
+    "idx": 48,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "（2）通过matplotlib/seaborn对清洗后的数据进行可视化分析，探索隐藏在大量数据背后的业务规律；"
+  },
+  {
+    "idx": 49,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "（3）根据业务需求识别项目模型类型（分类、聚类、回归），找出模型所需的特征属性。通过skleran进行模型建立、模型训练、模型预测、模型评价。"
+  },
+  {
+    "idx": 50,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "2、项目要求"
+  },
+  {
+    "idx": 51,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "（1）项目中需要包含数据读取、数据预处理、数据可视化、业务建模等功能；"
+  },
+  {
+    "idx": 52,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "（2）使用工具：pycharm或美林数据TempoAI"
+  },
+  {
+    "idx": 53,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "使用技术：numpy、pandas、matplotlib、seaborn、skleran"
+  },
+  {
+    "idx": 54,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "3、提交作品"
+  },
+  {
+    "idx": 55,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "项目设计报告、项目源程序（项目工程目录及相关资源文件）、项目演示录屏。"
+  },
+  {
+    "idx": 56,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "4、项目组各成员工作分工"
+  },
+  {
+    "idx": 57,
+    "type": "tbl",
+    "style": "",
+    "text": "[TABLE]"
+  },
+  {
+    "idx": 58,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "二、系统方案设计"
+  },
+  {
+    "idx": 59,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "1、系统背景"
+  },
+  {
+    "idx": 60,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "要求：介绍本系统的应用场景，使用本系统的客户群体，系统实现将达到的目标。"
+  },
+  {
+    "idx": 62,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "2、系统总体设计"
+  },
+  {
+    "idx": 63,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "要求：介绍本系统的框架结构（以系统框架结构图的方式展示），系统总体设计思路。"
+  },
+  {
+    "idx": 66,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "3、系统模块设计"
+  },
+  {
+    "idx": 67,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "要求：主要介绍本系统各模块的功能。"
+  },
+  {
+    "idx": 70,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "三、系统功能实现"
+  },
+  {
+    "idx": 71,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "1、系统开发环境"
+  },
+  {
+    "idx": 74,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "2、系统各模块功能实现"
+  },
+  {
+    "idx": 75,
+    "type": "p",
+    "style": "1",
+    "drawing": false,
+    "text": "要求：主要包括各模块的实现流程和实现代码（可包含处理流程图、部分重要的源代码等）。"
+  },
+  {
+    "idx": 76,
+    "type": "p",
+    "style": "1",
+    "drawing": false,
+    "text": "注意：以下各部分不能只粘贴代码，要对代码实现的具体功能有简单的描述。"
+  },
+  {
+    "idx": 77,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "（1）数据探索性分析"
+  },
+  {
+    "idx": 78,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "功能要求：对数据集中包含的属性进行简要介绍；查看各属性的数据类型、描述信息、特征、统计。"
+  },
+  {
+    "idx": 79,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "格式要求：请将代码粘贴在以下表格框中，小四号字，1.5倍行距，字体为Times New Roman，以下要求相同。"
+  },
+  {
+    "idx": 80,
+    "type": "tbl",
+    "style": "",
+    "text": "[TABLE]"
+  },
+  {
+    "idx": 82,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "（2）数据预处理模块"
+  },
+  {
+    "idx": 83,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "功能要求：通过数据预处理的方法对数据进行清洗、处理缺失值、数据类型转换等。"
+  },
+  {
+    "idx": 84,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "格式要求：请将代码粘贴在以下表格框中，小四号字，1.5倍行距，字体为Times New Roman，以下要求相同。"
+  },
+  {
+    "idx": 85,
+    "type": "tbl",
+    "style": "",
+    "text": "[TABLE]"
+  },
+  {
+    "idx": 87,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "（3）数据可视化模块"
+  },
+  {
+    "idx": 88,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "功能要求：可通过散点图查看不同属性之间的关联关系；可通过柱状图查看不同分类类型的数量比较；可通过饼图查看不同分类类型的占比；可通过折线图查看变化的趋势等。"
+  },
+  {
+    "idx": 89,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "格式要求：请将代码粘贴在以下表格框中，小四号字，1.5倍行距，字体为Times New Roman，以下要求相同。"
+  },
+  {
+    "idx": 90,
+    "type": "tbl",
+    "style": "",
+    "text": "[TABLE]"
+  },
+  {
+    "idx": 92,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "（4）数据挖掘模块"
+  },
+  {
+    "idx": 93,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "功能要求：根据业务目标选择合适的模型；识别模型所需的特征属性，对特征属性进行类型转换、标准化处理、PCA降维等。模型训练、模型预测、模型评估。"
+  },
+  {
+    "idx": 94,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "格式要求：请将代码粘贴在以下表格框中，小四号字，1.5倍行距，字体为Times New Roman，以下要求相同。"
+  },
+  {
+    "idx": 95,
+    "type": "tbl",
+    "style": "",
+    "text": "[TABLE]"
+  },
+  {
+    "idx": 97,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "四、系统功能测试"
+  },
+  {
+    "idx": 98,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "总体要求：主要对各模块功能代码实现结果进行测试，并验证功能运行结果与期望结果是否一致。结果截图，依次粘贴，图要截的能看清，大小合适，不要过大过小，居中显示。"
+  },
+  {
+    "idx": 99,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "1、数据预处理功能测试"
+  },
+  {
+    "idx": 100,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "要求：主要测试预处理前后数据差异对比，以此来验证数据预处理功能是否正确。"
+  },
+  {
+    "idx": 102,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "2、数据分析可视化功能测试"
+  },
+  {
+    "idx": 103,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "要求：输出数据分析和可视化结果（截图），并从业务的角度对可视化的结果进行结论性的描述。"
+  },
+  {
+    "idx": 105,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "3、数据挖掘功能测试"
+  },
+  {
+    "idx": 106,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "要求：数据挖掘建立的模型是否合理，通过不同模型的评价指标进行评价和总结。可通过数据可视化的方式对模型的效果进行展示，并从业务的角度对可视化的结果进行结论性的描述。"
+  },
+  {
+    "idx": 110,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "五、课程总结"
+  },
+  {
+    "idx": 111,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "通过该项目的设计和实现，掌握了哪些理论知识和实践技能。。。。。。"
+  },
+  {
+    "idx": 113,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "不足之处，什么原因？下一步如何改进。。。。"
+  },
+  {
+    "idx": 115,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "至少半页！"
+  },
+  {
+    "idx": 117,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "说明：写完报告以后，请将红色的“要求”全部删掉。"
+  },
+  {
+    "idx": 118,
+    "type": "p",
+    "style": "",
+    "drawing": false,
+    "text": "。"
+  }
+]

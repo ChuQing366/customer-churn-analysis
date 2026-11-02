@@ -1,0 +1,14 @@
+﻿model_type,model,primary_metric,primary_value,secondary_metric,secondary_value
+classification,DecisionTree,f1_score,0.6254,roc_auc,0.5334
+classification,LightGBM,f1_score,0.5224,roc_auc,0.5302
+classification,LogisticRegression,f1_score,0.515,roc_auc,0.5264
+classification,GradientBoosting,f1_score,0.5132,roc_auc,0.5357
+classification,XGBoost,f1_score,0.5122,roc_auc,0.5126
+classification,RandomForest,f1_score,0.5084,roc_auc,0.5538
+classification,StackingEnsemble,f1_score,0.4711,roc_auc,0.5339
+clustering,KMeans_k_3,silhouette,0.22885430580174626,davies_bouldin,1.4893136809782652
+clustering,KMeans_k_4,silhouette,0.24624661067256554,davies_bouldin,1.2833327031609105
+clustering,KMeans_k_5,silhouette,0.24369814465470632,davies_bouldin,1.1245122584696534
+clustering,KMeans_k_6,silhouette,0.2459132435283258,davies_bouldin,1.1255816258774838
+clustering,KMeans_k_7,silhouette,0.24199252962862522,davies_bouldin,1.1293225106086593
+clustering,KMeans_k_8,silhouette,0.2440417503494101,davies_bouldin,1.199769794060805

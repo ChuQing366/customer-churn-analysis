@@ -1,0 +1,21 @@
+﻿antecedent,consequent,support,confidence,lift,sample_count
+is_negative=1,churn_label=1,0.427,0.6674,1.3538,854
+playtime_tier=短(2-10h),churn_label=1,0.1405,0.5872,1.1911,281
+is_free_copy=1,churn_label=1,0.047,0.5638,1.1437,94
+app_name=Rainbow Six Siege,churn_label=1,0.0975,0.5538,1.1234,195
+app_name=The Witcher 3,churn_label=1,0.105,0.5476,1.1108,210
+sentiment_label=negative,churn_label=1,0.3115,0.5409,1.0972,623
+app_name=Apex Legends,churn_label=1,0.0925,0.5297,1.0745,185
+app_name=GTA V,churn_label=1,0.1075,0.5163,1.0472,215
+sentiment_label=neutral,churn_label=1,0.446,0.5056,1.0256,892
+playtime_tier=中(10-50h),churn_label=1,0.469,0.4947,1.0034,938
+is_free_copy=0,churn_label=1,0.953,0.4895,0.9929,1906
+app_name=Team Fortress 2,churn_label=1,0.103,0.4806,0.9748,206
+app_name=The Finals,churn_label=1,0.1,0.48,0.9736,200
+app_name=PUBG,churn_label=1,0.1015,0.4581,0.9293,203
+app_name=Dota 2,churn_label=1,0.102,0.4559,0.9247,204
+app_name=Rust,churn_label=1,0.0915,0.4536,0.92,183
+app_name=CS2,churn_label=1,0.0995,0.4523,0.9174,199
+playtime_tier=长(50-200h),churn_label=1,0.3655,0.4501,0.9129,731
+sentiment_label=positive,churn_label=1,0.2425,0.4082,0.8281,485
+is_negative=0,churn_label=1,0.573,0.363,0.7363,1146

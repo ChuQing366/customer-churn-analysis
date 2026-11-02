@@ -1,0 +1,19 @@
+﻿cross_field,group_value,retained_rate,churn_rate
+playtime_tier,极短(<2h),0.1667,0.8333
+playtime_tier,短(2-10h),0.4128,0.5872
+app_name,Rainbow Six Siege,0.4462,0.5538
+app_name,The Witcher 3,0.4524,0.5476
+sentiment_label,negative,0.4591,0.5409
+app_name,Apex Legends,0.4703,0.5297
+app_name,GTA V,0.4837,0.5163
+sentiment_label,neutral,0.4944,0.5056
+playtime_tier,中(10-50h),0.5053,0.4947
+app_name,Team Fortress 2,0.5194,0.4806
+app_name,The Finals,0.52,0.48
+playtime_tier,很长(200-1000h),0.5263,0.4737
+app_name,PUBG,0.5419,0.4581
+app_name,Dota 2,0.5441,0.4559
+app_name,Rust,0.5464,0.4536
+app_name,CS2,0.5477,0.4523
+playtime_tier,长(50-200h),0.5499,0.4501
+sentiment_label,positive,0.5918,0.4082

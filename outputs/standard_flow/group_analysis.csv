@@ -1,0 +1,21 @@
+﻿group_field,group_value,sample_count,churn_rate
+app_name,Rainbow Six Siege,195,0.5538
+app_name,The Witcher 3,210,0.5476
+app_name,Apex Legends,185,0.5297
+app_name,GTA V,215,0.5163
+app_name,Team Fortress 2,206,0.4806
+app_name,The Finals,200,0.48
+app_name,PUBG,203,0.4581
+app_name,Dota 2,204,0.4559
+app_name,Rust,183,0.4536
+app_name,CS2,199,0.4523
+is_negative,1,854,0.6674
+is_negative,0,1146,0.363
+playtime_tier,极短(<2h),12,0.8333
+playtime_tier,短(2-10h),281,0.5872
+playtime_tier,中(10-50h),938,0.4947
+playtime_tier,很长(200-1000h),38,0.4737
+playtime_tier,长(50-200h),731,0.4501
+sentiment_label,negative,623,0.5409
+sentiment_label,neutral,892,0.5056
+sentiment_label,positive,485,0.4082

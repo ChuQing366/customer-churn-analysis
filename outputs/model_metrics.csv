@@ -1,0 +1,8 @@
+model,accuracy,precision,recall,f1_score,roc_auc
+DecisionTree,0.492,0.4907,0.8618,0.6254,0.5334
+LightGBM,0.532,0.5246,0.5203,0.5224,0.5302
+LogisticRegression,0.514,0.5059,0.5244,0.515,0.5264
+GradientBoosting,0.522,0.5143,0.5122,0.5132,0.5357
+XGBoost,0.52,0.5122,0.5122,0.5122,0.5126
+RandomForest,0.532,0.5261,0.4919,0.5084,0.5538
+StackingEnsemble,0.524,0.5196,0.4309,0.4711,0.5339
